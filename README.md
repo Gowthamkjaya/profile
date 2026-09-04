@@ -4,14 +4,14 @@
 <div class="header">
   <div class="header-container">
     <div class="profile-image">
-      <img src="assets/Professional_Pic-removebg-preview.png" alt="Gowtham K Jayachandiran" />
+      <img src="assets/gowtham_profile.jpg" alt="Gowtham K Jayachandiran" />
     </div>
     <div class="header-content">
   <h1>Gowtham K Jayachandiran</h1>
   <h4>Transforming Data into Strategic Success with Cutting-Edge Analytics and Visionary Leadership</h4>
       <div class="contact-info">
-        <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
-        <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840 / +91 9655554594</a></div>
+        <div class="contact-item"><i class="fas fa-map-marker-alt"></i> South Newton, BC, V3X 0L1, Canada</div>
+        <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+16728554594">+1-672-855-4594</a></div>
         <div class="contact-item"><i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkjaya@gmail.com</a></div>
         <div class="contact-item"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumarj/">LinkedIn</a></div>
         <div class="contact-item"><i class="fas fa-file-pdf"></i> <a href="assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a></div>
@@ -105,19 +105,23 @@
 
 ## ✨ Executive Summary
 
-**Business Intelligence** and **Data Science leader** with over **10 years of experience** driving **digital transformation**, **actionable insights**, and **strategic growth** in **Fintech**, **Retail** and **Technology sectors**.
+**AI/ML, Business Intelligence, and Data Science leader** with 10+ years of experience building enterprise analytics products and transforming complex data into measurable business outcomes across Cisco, Nomura, and other global organizations.
 
-Excel at designing **Dynamic Dashboards**, **ML/AI Model Development & Deployment**, **Optimizing Data Pipelines** and **Leading Cross-Functional** teams to align with global business objectives. 
+Experienced in designing AI-powered analytics assistants, RAG applications, predictive intelligence pipelines, customer segmentation models, product-quality analytics, and executive BI solutions. Strong background in translating business problems into scalable data products across customer, product, telemetry, finance, sales, and supply-chain domains.
 
-At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering significant revenue growth and operational efficiencies. Certified in **Power BI, Tableau, Excel, SQL & Alteryx**, Equipped to elevate data-driven decision-making and commercial excellence.
+Technical expertise spans the full data and AI lifecycle, including data engineering, ETL, Snowflake data platforms, semantic modeling, NLP, predictive modeling, Generative AI, LLM evaluation, MLOps, and interactive visualization. Hands-on experience with Python, SQL, Snowflake Cortex Analyst, LangChain, LangGraph, FastAPI, Tableau, Power BI, Alteryx, Docker, Jenkins, and cloud-based deployment platforms.
 
-- 🧠 Developed & Deployed production scale **RAG AI Streamlit** app using GPT-3.0 Turbo, Langchain, enhancing **Tableau Dashboard** adoption and boosting **user interaction** efficiency by **25%**.
-- ✅ Developed **35+ Power BI** & **Tableau** dashboards, improving usage by **15%**, adopted by **3,000+ stakeholders** across Nomura & Cisco.
-- 🤖 Optimized **SQL queries** on **Snowflake**, reducing analytics runtime by **80%**, from 5 minutes to 45 seconds, enhancing decision-making.
-- 💰 Drove **$700K+** in pipeline opportunities via **ML-based customer segmentation**, delivering **78+ cross-sell** insights at Cisco.
-- 📈 Delivered **C-suite** PowerPoint presentations, aligning **market trends** and **sales insights** for **10%** revenue growth across regions.
-- 👨‍🏫 Trained **4,500+** professionals globally, achieving **70%+** adoption of **BI tools**, boosting **digital literacy** and collaboration.
-- 🔒 Ensured **0%** error rate in automated reports and **GDPR/CCPA** compliance, implementing **RBAC** and data masking for **100M+** records.
+**Selected achievements include:**
+<ul>
+  <li>Delivered and supported <strong>50+ enterprise dashboards</strong> and analytics products that improved operational efficiency by 15%+.</li>
+  <li>Built <strong>AI-driven analytics</strong> and customer-intelligence solutions that improved inventory, product, and customer insights.</li>
+  <li>Developed <strong>ML/NLP solutions</strong> for proactive deal intelligence, product-quality analysis, customer segmentation, sentiment analysis, and feature adoption.</li>
+  <li>Designed <strong>evaluation and monitoring frameworks</strong> for AI assistants, including automated testing, SQL validation, LLM-as-judge evaluation, dashboards, and alerting.</li>
+  <li>Trained <strong>4,500+ professionals</strong> on BI and analytics tools, contributing to 70%+ adoption.</li>
+  <li>Partnered with senior and <strong>C-suite stakeholders</strong> to align data strategy with business priorities and support measurable revenue growth.</li>
+  <li>Led and mentored <strong>cross-functional teams</strong> delivering secure, scalable, and business-focused analytics solutions.</li>
+</ul>
+
 
 <div class="certifications">
   <span class="cert-badge">Microsoft Certified: Power BI Data Analyst Associate</span>
@@ -132,6 +136,19 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 ## 🛠️ Technical Skills
 
 <div class="skills-grid">
+
+  <div class="skill-category">
+    <h3><i class="fas fa-brain"></i> AI & MLOps</h3>
+    <div class="skill-tags">
+      <span class="skill-tag"><i class="fas fa-robot"></i> Generative AI & RAG</span>
+      <span class="skill-tag"><i class="fas fa-project-diagram"></i> LangChain & LangGraph</span>
+      <span class="skill-tag"><i class="fas fa-snowflake"></i> Snowflake Cortex Analyst</span>
+      <span class="skill-tag"><i class="fas fa-code-branch"></i> LLM Evaluation (LLM-as-a-judge)</span>
+      <span class="skill-tag"><i class="fas fa-cogs"></i> MLOps & Model Deployment</span>
+      <span class="skill-tag"><i class="fas fa-network-wired"></i> NLP & Predictive Modeling</span>
+    </div>
+  </div>
+
   <div class="skill-category">
     <h3><i class="fas fa-chart-pie"></i> BI Tools</h3>
     <div class="skill-tags">
@@ -657,13 +674,15 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 # 💼 Professional Experience
 
-## <i class="fas fa-network-wired"></i> Cisco — Data Scientist & BI Specialist, Global Office of Analytics
-### Apr 2023 – Present | Bengaluru, India
-<div class="tech-stack">Snowflake, Streamlit, Python, Tableau, Power BI, Salesforce CRM Analytics, Azure</div>
+## <i class="fas fa-network-wired"></i> Cisco — AIOps Developer (Promoted from Full Stack Data Scientist)
+### Sep 2023 – Present | Vancouver, BC, Canada (Relocated from Bengaluru)
+<div class="tech-stack">Snowflake Cortex Analyst, LangChain, LangGraph, FastAPI, Python, Angular, Tableau, Docker, Jenkins</div>
 
-- <i class="fas fa-robot"></i> Lead **3 direct reports**, developing **AI/ML** pipelines and a **GenAI Assistant** using **Llama** and **GPT-4 Turbo**, boosting **Tableau dashboard** adoption by **15%+** for **300+** users in one month.
-- <i class="fas fa-users-cog"></i> Built **customer segmentation** models on **telemetry data**, delivering **78+ cross-sell** opportunities, adding **$700K** to the pipeline for sales effectiveness.
-- <i class="fas fa-chart-bar"></i> Architected interactive **Power BI** dashboards, adopted by **14 executives** for quarterly reviews, enhancing sales **KPI tracking** and strategic alignment.
+- <i class="fas fa-brain"></i> **Enterprise AI & GenAI:** Architected **ARIA** (Cortex Analyst natural-language assistant) spanning Angular, FastAPI, and Snowflake. Built agentic dashboard flows with LangGraph/LangChain. Designed robust automated testing, LLM-as-a-judge evaluation, and trace parsing frameworks.
+- <i class="fas fa-database"></i> **DataLens & Metadata Intelligence:** Developed a Snowflake metadata catalog and knowledge graph with React/TS, providing MCP endpoints for AI assistants like Copilot and Claude. Built **CogniSynth**, a privacy-preserving local context compiler with AES-GCM encryption.
+- <i class="fas fa-chart-line"></i> **Predictive Analytics (ForesightIQ):** Built a massive leakage-safe pipeline on Snowflake, materializing a 247M-row feature table spanning 557 schemas. Developed 30/60/90-day predictive baselines with uncertainty-aware monitoring for 467,000+ deals.
+- <i class="fas fa-users-cog"></i> **Product Quality & Qualiscope AI:** Developed ML/NLP pipelines over 953k technical-support cases using BGE-M3 embeddings, HDBSCAN clustering, and local LLMs to identify 445 recurring support patterns.
+- <i class="fas fa-trophy"></i> **Hackathon Wins:** Won **1st Place (Product Org)** in Tableau Atlas (complete metadata scrape & website for executive dashboards) and **3rd Place** in EscaLens (Predictive Modeling on TAC case escalations).
 
 &nbsp;
 
